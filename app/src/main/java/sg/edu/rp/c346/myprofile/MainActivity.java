@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         prefEdit.commit(); //save changes into shared preferences
     }
 
+    //Test a commit 
     @Override
     protected void onResume() {
         super.onResume();
